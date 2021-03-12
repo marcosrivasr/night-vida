@@ -1,0 +1,21 @@
+{
+    "name": "night-vida",
+    "displayName": "night vida",
+    "description": "dark mode theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Vida",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Vida-color-theme.json"
+            }
+        ]
+    }
+}
