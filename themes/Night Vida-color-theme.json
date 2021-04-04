@@ -3,18 +3,18 @@
 	"type": "dark",
 	"colors": {
 		"sideBarTitle.foreground": "#ffffff",
-		"editor.background": "#121525",
+		"editor.background": "#000000",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#cc003d",
+		"activityBarBadge.background": "#ff004c",
 
 		"activityBar.background": "#121525",
 		"activityBar.border": "#121525",
-		"editorLineNumber.foreground": "#2b3769",
+		"editorLineNumber.foreground": "#535353",
 		"statusBar.background": "#121525",
 		"titleBar.activeBackground": "#121525",
 		"tab.activeBackground": "#121525",
-		"tab.activeBorderTop": "#ff8f0e",
-		"editor.lineHighlightBackground": "#2b3769",
+		"tab.activeBorderTop": "#ff8800",
+		"editor.lineHighlightBackground": "#000",
 		"tab.border": "#121525",
 		"tab.inactiveBackground": "#121525",
 		"tab.activeForeground": "#ffffff"
@@ -68,7 +68,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#cf88ff"
 			}
 		},
 		{
@@ -88,7 +88,8 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#C3E88D"
+				
 			}
 		},
 		{
@@ -99,7 +100,8 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				//"foreground": "#f07178"
+				"foreground": "#ffe46a"
 			}
 		},
 		{
@@ -112,7 +114,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ff8297"
 			}
 		},
 		{
@@ -121,7 +123,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#FF8297"
 			}
 		},
 		{
@@ -147,7 +149,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#aea4ff"
 			}
 		},
 		{
@@ -162,7 +164,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#6ee9ff"
 			}
 		},
 		{
@@ -178,7 +180,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ff6ff3"
 			}
 		},
 		{
@@ -187,7 +189,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#e7ff91"
 			}
 		},
 		{
@@ -232,7 +234,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#ff82b2"
 			}
 		},
 		{
@@ -242,7 +244,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ff82b2"
 			}
 		},
 		{
